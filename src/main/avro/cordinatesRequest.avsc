@@ -1,0 +1,26 @@
+{
+  "type": "record",
+  "name": "Record",
+  "namespace": "com.bank.schema",
+  "fields": [
+    {
+      "name": "type",
+      "type": "long"
+    },
+    {
+      "name": "matrix",
+      "type": {
+        "type": "array",
+        "items": "long"
+      }
+    },
+    {
+      "name": "startingTime",
+      "type": "string"
+    },
+    {
+      "name": "endingTime",
+      "type": "string"
+    }
+  ]
+}
