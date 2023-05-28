@@ -1,4 +1,4 @@
-package com.bank.transfer;
+package com.xy.transfer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

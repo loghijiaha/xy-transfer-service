@@ -1,4 +1,4 @@
-package com.bank.transfer.model;
+package com.xy.transfer.model;
 
 import org.junit.jupiter.api.Test;
 

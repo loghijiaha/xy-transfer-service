@@ -1,4 +1,4 @@
-package com.bank.transfer.model;
+package com.xy.transfer.model;
 
 public enum RecordType {
     CLICK(0, "Clicking at a specific point"),

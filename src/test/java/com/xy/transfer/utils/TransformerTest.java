@@ -1,4 +1,4 @@
-package com.bank.transfer.utils;
+package com.xy.transfer.utils;
 
 import org.junit.jupiter.api.Test;
 
